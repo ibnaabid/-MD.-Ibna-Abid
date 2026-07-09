@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=250&section=header&text=Hi%2C%20I'm%20Abid%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=250&section=header&text=Hi%2C%20I'm%20Ibna%20Abid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+%2B+Express+%2B+MongoDB;Real-Time+Apps+%7C+Socket.io+%2B+Stripe;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+%2B+Express+%2B+MongoDB;Real-Time+webs+%7C+Socket.io+%2B+Stripe;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,7 +19,6 @@
 </a>
 
 <br/>
-
 
 </div>
 
@@ -42,70 +41,55 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 
 | Project | Description | Stack |
 |---|---|---|
-| 💬 **House Rent** | House management with panel | Next.js, Socket.io, MongoDB, Better Auth, Agora |
-| 🍽️ **sport** | Restaurant management platform with live orders & payments | Next.js, Socket.io, Stripe, MongoDB |
+| 💬 **House Rent | House management with admin auth and panel ||Next.js,Tailwind css, JS(ES6), Socket.io, MongoDB, Better Auth |
+| 🍽️ **sport** | sport field management platform with live orders & payments | Next.js, js,Better Auth, Stripe, MongoDB |
 
 <br/>
 
 ## 🛠️ Skills & Technologies
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**🎨 Frontend Development**
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&logo=daisyui&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css&theme=dark" />
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-**⚙️ Backend Development**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-025E8C?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Better%20Auth-8B5CF6?style=flat-square&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **🔗 Real-Time & Integrations**
-<br/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Server_Actions-000000?style=flat-square&logo=next.js&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=socketio,stripe,webrtc&theme=dark" />
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **🧰 Tools & Deployment**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode&theme=dark" />
 
 </td>
 </tr>
 </table>
 
-**Core Competencies:** Full-Stack Architecture · Real-Time Systems Design · RESTful API Development · Authentication & Authorization · Payment Gateway Integration · Role-Based Access Control · Database Modeling · Responsive UI/UX · Deployment & Production Debugging
+<br/>
+
+`Full-Stack Architecture` · `Real-Time Systems Design` · `RESTful APIs` · `Authentication & Authorization` · `Payment Integration` · `Role-Based Access Control` · `Database Modeling` · `Responsive UI/UX`
+
+</div>
 
 <br/>
 
