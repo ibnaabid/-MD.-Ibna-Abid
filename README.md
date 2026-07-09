@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=250&section=header&text=Hi%2C%20I'm%20Ibna%20Abid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=55&descSize=18" width="100%"/>
+<!-- Header Capsule Render with Premium Cyberpunk Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:6366f1,70:a855f7,100:14b8a6&height=260&section=header&text=Hi%2C%20I'm%20Ibna%20Abid&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+%2B+Express+%2B+MongoDB;Real-Time+webs+%7C+Socket.io+%2B+Stripe;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+<!-- Typing SVG with updated matching gradient colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=14B8A6&background=0D111700&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+%2B+Express+%2B+MongoDB;Real-Time+Webs+%7C+Socket.io+%2B+Stripe;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/><br/>
 
+<!-- Modern Glossy Badges -->
 <a href="https://my-portfoilo-zeta-khaki.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-14b8a6?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,8 +44,8 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 
 | Project | Description | Stack |
 |---|---|---|
-| 💬 **House Rent | House management with admin auth and panel | Next.js,Tailwind css, JS(ES6), Socket.io, MongoDB, Better Auth |
-| 🍽️ **sport** | sport field management platform with live orders & payments | Next.js, js,Better Auth, Stripe, MongoDB |
+| 💬 **House Rent** | House management with admin auth and panel | `Next.js` `Tailwind CSS` `Socket.io` `MongoDB` `Better Auth` |
+| 🍽️ **Sport** | Sport field management platform with live orders & payments | `Next.js` `Better Auth` `Stripe` `MongoDB` |
 
 <br/>
 
@@ -97,20 +100,24 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibnaabid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnaabid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" />
+<!-- Stats Cards with Unified Cyberpunk Theme -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibnaabid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=a855f7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnaabid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnaabid&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<!-- Streak Stats with Matching Neon Rings -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnaabid&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=14b8a6&currStreakLabel=14b8a6" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibnaabid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff" width="95%"/>
+<!-- Modern Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibnaabid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=14b8a6&line=a855f7&point=ffffff" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibnaabid&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<!-- Dynamic Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ibnaabid&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -136,4 +143,5 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<!-- Footer Capsule Render with Matching Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:a855f7,100:0d1117&height=120&section=footer" width="100%"/>
