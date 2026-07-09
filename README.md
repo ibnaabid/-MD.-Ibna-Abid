@@ -14,7 +14,7 @@
 <a href="https://my-portfoilo-zeta-khaki.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-14b8a6?style=for-the-badge&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/mdibnaabid" target="_blank">
+<a href="https://www.linkedin.com/in/mdibnaabid" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdabout2@gmail.com" target="_blank">
@@ -44,8 +44,8 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 
 | Project | Description | Stack |
 |---|---|---|
-| 💬 **House Rent** | House management with admin auth and panel | `Next.js` `Tailwind CSS` `Socket.io` `MongoDB` `Better Auth` |
-| 🍽️ **Sport** | Sport field management platform with live orders & payments | `Next.js` `Better Auth` `Stripe` `MongoDB` |
+| 🏠 **House Rent** | House rental management platform with admin auth and admin panel | `Next.js` `Tailwind CSS` `Socket.io` `MongoDB` `Better Auth` |
+| ⚽ **Sport** | Sport field booking & management platform with live orders & payments | `Next.js` `Better Auth` `Stripe` `MongoDB` |
 
 <br/>
 
@@ -130,7 +130,7 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 <a href="https://github.com/ibnaabid" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/mdibnaabid/" target="_blank">
+<a href="https://www.linkedin.com/in/mdibnaabid/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdabout2@gmail.com" target="_blank">
