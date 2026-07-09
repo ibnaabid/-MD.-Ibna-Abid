@@ -14,7 +14,7 @@
 <a href="https://my-portfoilo-zeta-khaki.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-14b8a6?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="www.linkedin.com/in/mdibnaabid" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdabout2@gmail.com" target="_blank">
@@ -130,7 +130,7 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 <a href="https://github.com/ibnaabid" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="www.linkedin.com/in/mdibnaabid/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdabout2@gmail.com" target="_blank">
