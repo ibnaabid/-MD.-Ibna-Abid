@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:mdabout2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -28,17 +28,9 @@
 
 ## 🧑‍💻 About Me
 
-```js
-const abid = {
-    role: "Full Stack Web Developer",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    education: "CS&T @ Dinajpur Polytechnic Institute",
-    currentlyLearning: "Advanced Next.js patterns, System Design",
-    stack: ["Next.js", "Express.js", "MongoDB", "Better Auth", "Socket.io", "Stripe"],
-    passion: "Turning complex problems into clean, real-time web experiences",
-    funFact: "I debug faster with coffee ☕ than without"
-};
-```
+I'm a Full Stack Web Developer based in Dhaka, Bangladesh, currently studying Computer Science & Technology at Dinajpur Polytechnic Institute and a graduate of Programming Hero's MERN Stack Bootcamp (2025). I specialize in building production-grade, real-time web applications — from live chat and video calling systems to full-scale platforms with integrated payments. My focus is on writing clean, scalable code and designing interfaces that feel fast, polished, and intuitive.
+
+I'm currently sharpening my skills in advanced Next.js architecture and system design, while preparing for remote full-stack opportunities.
 
 - 🎓 Studying **Computer Science & Technology** at Dinajpur Polytechnic Institute
 - 🚀 MERN Stack Bootcamp graduate — **Programming Hero (2025)**
@@ -111,10 +103,7 @@ const abid = {
 <a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:mdabout2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -125,4 +114,3 @@ const abid = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-    
