@@ -41,7 +41,7 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 
 | Project | Description | Stack |
 |---|---|---|
-| 💬 **House Rent | House management with admin auth and panel ||Next.js,Tailwind css, JS(ES6), Socket.io, MongoDB, Better Auth |
+| 💬 **House Rent | House management with admin auth and panel | Next.js,Tailwind css, JS(ES6), Socket.io, MongoDB, Better Auth |
 | 🍽️ **sport** | sport field management platform with live orders & payments | Next.js, js,Better Auth, Stripe, MongoDB |
 
 <br/>
@@ -79,7 +79,7 @@ I'm currently sharpening my skills in advanced Next.js architecture and system d
 
 **🧰 Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark" />
 
 </td>
 </tr>
